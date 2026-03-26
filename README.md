@@ -6,4 +6,4 @@
 # Matricula: 23ISIC067
 
 # PROPOSITO
-# Este repositorio es creado con la finalidad de organiozar y aklmacenar de los sistemas abiertos realizadas en la  materia de Lenguajes de Interfaz, permitiendome llevar un control de todas las evidencias.
+# Este repositorio es creado con la finalidad de organiozar y almacenar las practicas de los sistemas abiertos realizadas en la  materia de Lenguajes de Interfaz, permitiendome llevar un control de todas las evidencias del semestre.
